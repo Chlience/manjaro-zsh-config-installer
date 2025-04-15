@@ -1,6 +1,6 @@
+#!/bin/bash
 # This script installs the Manjaro Zsh configuration and its dependencies.
 # Please make sure you have installed Zsh before running this script.
-#!/bin/bash
 
 # Configuration variables
 TMP_DIR="/tmp/manjaro-zsh-config"  # Configurable temporary directory
